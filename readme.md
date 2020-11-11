@@ -10,35 +10,34 @@ Contact: xzhou74\@asu.edu
 
 Table of Contents
 
-[Part I: Basic Understanding of GMNS and visualization	2](#_Toc55986873)
+[Part I: Basic Understanding of GMNS and visualization	2](#_Toc55123622)
 
->   [1. Introduction of GMNS, AMS, QGIS and NeXTA	2](#_Toc55986874)
+>   [1. Introduction of GMNS, AMS, QGIS and NeXTA	2](#_Toc55123623)
 
->   [2. Import GMNS file with geometry field in QGIS	3](#_Toc55986875)
+>   [2. Import GMNS file with geometry field in QGIS	3](#_Toc55123624)
 
->   [3. Load XYZ Tiles in QGIS with background maps	4](#_Toc55986876)
+>   [3. Load XYZ Tiles in QGIS with background maps	4](#_Toc55123625)
 
->   [4. Visualize output file link_performance.csv in QGIS	5](#_Toc55986877)
+>   [4. Visualize output file link_performance.csv in QGIS	5](#_Toc55123626)
 
->   [5. View/edit GMNS network in NeXTA	8](#_Toc55986878)
+>   [5. View/edit GMNS network in NeXTA	8](#_Toc55123627)
 
 >   [6. Load GMNS network with background image in NeXTA through the help of
->   QGIS	14](#_Toc55986879)
+>   QGIS	14](#_Toc55123628)
 
-[Part II: Advanced Topics: Create GMNS Networks	18](#_Toc55986880)
+[Part II: Advanced Topics: Create GMNS Networks	18](#_Toc55123629)
 
->   [7. Create a GMNS Network in NeXTA without background
->   image	18](#_Toc55986881)
+>   [7. Create GMNS Network in NeXTA	18](#_Toc55123630)
 
 >   [8. Create a Network in NeXTA from the background map
->   image	25](#_Toc55986882)
+>   image	25](#_Toc55123631)
 
->   [9. Create network through QuickOSM QGIS Plugin	35](#_Toc55986883)
+>   [9. Create network through QuickOSM QGIS Plugin	35](#_Toc55123632)
 
->   [10. Create GMNS network from Openstreet Maps (OSM) file	40](#_Toc55986884)
+>   [10. Create GMNS network from Openstreet Maps (OSM) file	40](#_Toc55123633)
 
->   [11. Create multi-resolution GMNS network through open-source Ocean
->   Tool	40](#_Toc55986885)
+>   [11. Create multi-resolution GMNS network through open-source
+>   Ocean	40](#_Toc55123634)
 
 Data set
 

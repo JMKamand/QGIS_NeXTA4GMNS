@@ -1,0 +1,1000 @@
+Agent Selection Mode,--,Network-wide,--
+Category,All Agents/Agents,Number of Agents,25000.00
+Category,All Agents/Agents,Cumulative Number of Agents,25000.00
+Category,All Agents/Agents,Total Travel Distance ,53457.68
+Category,All Agents/Agents,Avg Travel Distance , 2.14
+Category,All Agents/Agents,Avg Speed (distance/hour),534576.81
+Category,All Agents/Agents,Avg Travel Time STD (min),26.13
+Category,All Agents/Agents,95th Percentile Travel Time (min),36.93
+Category,All Agents/Agents,90th Percentile Travel Time (min), 0.04
+Category,All Agents/Agents,80th Percentile Travel Time (min), 0.01
+Category,All Agents/Agents,Planning Time Index: 95th percentile/FFTT, 8.76
+Category,All Agents/Agents,Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,All Agents/Agents,Travel Time Per Distance Unit STD,26.37
+Category,All Agents/Agents,95th Percentile Travel Time Per Distance Unit,20.55
+Category,All Agents/Agents,90th Percentile Travel Time Per Distance Unit, 0.06
+Category,Agent Type,Number of Agents,25000.00
+Category,Agent Type,Cumulative Number of Agents,25000.00
+Category,Agent Type,Total Travel Distance ,53457.68
+Category,Agent Type,Avg Travel Distance , 2.14
+Category,Agent Type,Avg Speed (distance/hour),534576.81
+Category,Agent Type,Avg Travel Time STD (min),26.13
+Category,Agent Type,95th Percentile Travel Time (min),36.93
+Category,Agent Type,90th Percentile Travel Time (min), 0.04
+Category,Agent Type,80th Percentile Travel Time (min), 0.01
+Category,Agent Type,Planning Time Index: 95th percentile/FFTT, 8.76
+Category,Agent Type,Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,Agent Type,Travel Time Per Distance Unit STD,26.37
+Category,Agent Type,95th Percentile Travel Time Per Distance Unit,20.55
+Category,Agent Type,90th Percentile Travel Time Per Distance Unit, 0.06
+Category,5-min Departure Time Interval,Number of Agents,
+,,20:45_21:00,14203.00
+,,21:00_21:15,1334.00
+,,21:15_21:30,1129.00
+,,22:45_23:00,2778.00
+,,23:15_23:30,5556.00
+Category,5-min Departure Time Interval,Cumulative Number of Agents,
+,,20:45_21:00,14203.00
+,,21:00_21:15,15537.00
+,,21:15_21:30,16666.00
+,,22:45_23:00,19444.00
+,,23:15_23:30,25000.00
+Category,5-min Departure Time Interval,Total Travel Time (min),
+,,20:45_21:00,15.54
+,,21:00_21:15,10711.27
+,,21:15_21:30,27522.14
+Category,5-min Departure Time Interval,Total Travel Distance ,
+,,20:45_21:00,30500.11
+,,21:00_21:15,2916.62
+,,21:15_21:30,2344.27
+,,22:45_23:00,6246.02
+,,23:15_23:30,11447.69
+Category,5-min Departure Time Interval,Avg Travel Time (min),
+,,21:00_21:15, 8.03
+,,21:15_21:30,24.38
+Category,5-min Departure Time Interval,Avg Travel Distance ,
+,,20:45_21:00, 2.15
+,,21:00_21:15, 2.19
+,,21:15_21:30, 2.08
+,,22:45_23:00, 2.25
+,,23:15_23:30, 2.06
+Category,5-min Departure Time Interval,Avg Speed (distance/hour),
+,,20:45_21:00,117782.01
+,,21:00_21:15,16.34
+,,21:15_21:30, 5.11
+,,22:45_23:00,62460.21
+,,23:15_23:30,114476.87
+Category,5-min Departure Time Interval,Avg Travel Time Per distance (min/distance),
+,,21:00_21:15, 3.21
+,,21:15_21:30,18.31
+Category,5-min Departure Time Interval,Travel Time Index: mean/FFTT,
+,,21:00_21:15, 1.94
+,,21:15_21:30, 5.62
+Category,5-min Departure Time Interval,Avg Travel Time STD (min),
+,,20:45_21:00, 0.01
+,,21:00_21:15,15.54
+,,21:15_21:30,21.87
+,,22:45_23:00,13.61
+,,23:15_23:30,41.25
+Category,5-min Departure Time Interval,95th Percentile Travel Time (min),
+,,20:45_21:00, 0.02
+,,21:00_21:15,45.12
+,,21:15_21:30,60.65
+,,23:15_23:30,77.84
+Category,5-min Departure Time Interval,90th Percentile Travel Time (min),
+,,20:45_21:00, 0.02
+,,21:00_21:15,35.25
+,,21:15_21:30,52.46
+,,23:15_23:30,54.54
+Category,5-min Departure Time Interval,80th Percentile Travel Time (min),
+,,20:45_21:00, 0.01
+,,21:00_21:15,19.94
+,,21:15_21:30,43.92
+Category,5-min Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,21:00_21:15,10.92
+,,21:15_21:30,13.98
+,,23:15_23:30,17.90
+Category,5-min Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,
+,,20:45_21:00, 2.25
+,,21:00_21:15, 4.62
+,,21:15_21:30, 1.49
+,,23:15_23:30,10528.66
+Category,5-min Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,20:45_21:00, 1.08
+,,21:00_21:15, 7.67
+,,21:15_21:30, 0.84
+,,22:45_23:00, 1.15
+,,23:15_23:30,163.37
+Category,5-min Departure Time Interval,Travel Time Per Distance Unit STD,
+,,20:45_21:00, 0.01
+,,21:00_21:15, 6.47
+,,21:15_21:30,22.05
+,,22:45_23:00, 9.03
+,,23:15_23:30,51.78
+Category,5-min Departure Time Interval,95th Percentile Travel Time Per Distance Unit,
+,,20:45_21:00, 0.02
+,,21:00_21:15,17.45
+,,21:15_21:30,58.77
+,,23:15_23:30,84.26
+Category,5-min Departure Time Interval,90th Percentile Travel Time Per Distance Unit,
+,,20:45_21:00, 0.01
+,,21:00_21:15,13.70
+,,21:15_21:30,42.30
+,,23:15_23:30,39.16
+Category,5-min Departure Time Interval,80th Percentile Travel Time Per Distance Unit,
+,,21:00_21:15, 7.85
+,,21:15_21:30,26.86
+Category,15-min Departure Time Interval,Number of Agents,
+,,06:45_07:00,14203.00
+,,07:00_07:15,2463.00
+,,07:30_07:45,2778.00
+,,07:45_08:00,5556.00
+Category,15-min Departure Time Interval,Cumulative Number of Agents,
+,,06:45_07:00,14203.00
+,,07:00_07:15,16666.00
+,,07:30_07:45,19444.00
+,,07:45_08:00,25000.00
+Category,15-min Departure Time Interval,Total Travel Time (min),
+,,06:45_07:00,15.54
+,,07:00_07:15,38233.41
+Category,15-min Departure Time Interval,Total Travel Distance ,
+,,06:45_07:00,30500.11
+,,07:00_07:15,5260.89
+,,07:30_07:45,6246.02
+,,07:45_08:00,11447.69
+Category,15-min Departure Time Interval,Avg Travel Time (min),15.52
+Category,15-min Departure Time Interval,Avg Travel Distance ,
+,,06:45_07:00, 2.15
+,,07:00_07:15, 2.14
+,,07:30_07:45, 2.25
+,,07:45_08:00, 2.06
+Category,15-min Departure Time Interval,Avg Speed (distance/hour),
+,,06:45_07:00,117782.01
+,,07:00_07:15, 8.26
+,,07:30_07:45,62460.21
+,,07:45_08:00,114476.87
+Category,15-min Departure Time Interval,Avg Travel Time Per distance (min/distance),10.13
+Category,15-min Departure Time Interval,Travel Time Index: mean/FFTT, 3.67
+Category,15-min Departure Time Interval,Avg Travel Time STD (min),
+,,06:45_07:00, 0.01
+,,07:00_07:15,20.41
+,,07:30_07:45,13.61
+,,07:45_08:00,41.25
+Category,15-min Departure Time Interval,95th Percentile Travel Time (min),
+,,06:45_07:00, 0.02
+,,07:00_07:15,53.01
+,,07:45_08:00,77.84
+Category,15-min Departure Time Interval,90th Percentile Travel Time (min),
+,,06:45_07:00, 0.02
+,,07:00_07:15,46.31
+,,07:45_08:00,54.54
+Category,15-min Departure Time Interval,80th Percentile Travel Time (min),
+,,06:45_07:00, 0.01
+,,07:00_07:15,36.70
+Category,15-min Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,07:00_07:15,12.54
+,,07:45_08:00,17.90
+Category,15-min Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,
+,,06:45_07:00, 2.25
+,,07:00_07:15, 2.42
+,,07:45_08:00,10528.66
+Category,15-min Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,06:45_07:00, 1.08
+,,07:00_07:15, 3.40
+,,07:30_07:45, 1.15
+,,07:45_08:00,163.37
+Category,15-min Departure Time Interval,Travel Time Per Distance Unit STD,
+,,06:45_07:00, 0.01
+,,07:00_07:15,17.38
+,,07:30_07:45, 9.03
+,,07:45_08:00,51.78
+Category,15-min Departure Time Interval,95th Percentile Travel Time Per Distance Unit,
+,,06:45_07:00, 0.02
+,,07:00_07:15,40.27
+,,07:45_08:00,84.26
+Category,15-min Departure Time Interval,90th Percentile Travel Time Per Distance Unit,
+,,06:45_07:00, 0.01
+,,07:00_07:15,25.57
+,,07:45_08:00,39.16
+Category,15-min Departure Time Interval,80th Percentile Travel Time Per Distance Unit,18.13
+Category,30-min Departure Time Interval,Number of Agents,
+,,06:30_07:00,14203.00
+,,07:00_07:30,2463.00
+,,07:30_08:00,8334.00
+Category,30-min Departure Time Interval,Cumulative Number of Agents,
+,,06:30_07:00,14203.00
+,,07:00_07:30,16666.00
+,,07:30_08:00,25000.00
+Category,30-min Departure Time Interval,Total Travel Time (min),
+,,06:30_07:00,15.54
+,,07:00_07:30,38233.41
+Category,30-min Departure Time Interval,Total Travel Distance ,
+,,06:30_07:00,30500.11
+,,07:00_07:30,5260.89
+,,07:30_08:00,17694.13
+Category,30-min Departure Time Interval,Avg Travel Time (min),15.52
+Category,30-min Departure Time Interval,Avg Travel Distance ,
+,,06:30_07:00, 2.15
+,,07:00_07:30, 2.14
+,,07:30_08:00, 2.12
+Category,30-min Departure Time Interval,Avg Speed (distance/hour),
+,,06:30_07:00,117782.01
+,,07:00_07:30, 8.26
+,,07:30_08:00,176941.31
+Category,30-min Departure Time Interval,Avg Travel Time Per distance (min/distance),10.13
+Category,30-min Departure Time Interval,Travel Time Index: mean/FFTT, 3.67
+Category,30-min Departure Time Interval,Avg Travel Time STD (min),
+,,06:30_07:00, 0.01
+,,07:00_07:30,20.41
+,,07:30_08:00,34.68
+Category,30-min Departure Time Interval,95th Percentile Travel Time (min),
+,,06:30_07:00, 0.02
+,,07:00_07:30,53.01
+,,07:30_08:00,69.21
+Category,30-min Departure Time Interval,90th Percentile Travel Time (min),
+,,06:30_07:00, 0.02
+,,07:00_07:30,46.31
+,,07:30_08:00,33.32
+Category,30-min Departure Time Interval,80th Percentile Travel Time (min),
+,,06:30_07:00, 0.01
+,,07:00_07:30,36.70
+Category,30-min Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,07:00_07:30,12.54
+,,07:30_08:00,16.40
+Category,30-min Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,
+,,06:30_07:00, 2.25
+,,07:00_07:30, 2.42
+,,07:30_08:00,9842.99
+Category,30-min Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,06:30_07:00, 1.08
+,,07:00_07:30, 3.40
+,,07:30_08:00,126.01
+Category,30-min Departure Time Interval,Travel Time Per Distance Unit STD,
+,,06:30_07:00, 0.01
+,,07:00_07:30,17.38
+,,07:30_08:00,42.66
+Category,30-min Departure Time Interval,95th Percentile Travel Time Per Distance Unit,
+,,06:30_07:00, 0.02
+,,07:00_07:30,40.27
+,,07:30_08:00,46.32
+Category,30-min Departure Time Interval,90th Percentile Travel Time Per Distance Unit,
+,,06:30_07:00, 0.01
+,,07:00_07:30,25.57
+,,07:30_08:00,22.35
+Category,30-min Departure Time Interval,80th Percentile Travel Time Per Distance Unit,18.13
+Category,1-hour Departure Time Interval,Number of Agents,
+,,06:00_07:00,14203.00
+,,07:00_08:00,10797.00
+Category,1-hour Departure Time Interval,Cumulative Number of Agents,
+,,06:00_07:00,14203.00
+,,07:00_08:00,25000.00
+Category,1-hour Departure Time Interval,Total Travel Time (min),15.54
+Category,1-hour Departure Time Interval,Total Travel Distance ,
+,,06:00_07:00,30500.11
+,,07:00_08:00,22954.75
+Category,1-hour Departure Time Interval,Avg Travel Distance ,
+,,06:00_07:00, 2.15
+,,07:00_08:00, 2.13
+Category,1-hour Departure Time Interval,Avg Speed (distance/hour),
+,,06:00_07:00,117782.01
+,,07:00_08:00,229547.53
+Category,1-hour Departure Time Interval,Avg Travel Time STD (min),
+,,06:00_07:00, 0.01
+,,07:00_08:00,37.09
+Category,1-hour Departure Time Interval,95th Percentile Travel Time (min),
+,,06:00_07:00, 0.02
+,,07:00_08:00,61.48
+Category,1-hour Departure Time Interval,90th Percentile Travel Time (min),
+,,06:00_07:00, 0.02
+,,07:00_08:00,40.98
+Category,1-hour Departure Time Interval,80th Percentile Travel Time (min),
+,,06:00_07:00, 0.01
+,,07:00_08:00,15.29
+Category,1-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT,14.56
+Category,1-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,
+,,06:00_07:00, 2.25
+,,07:00_08:00,8049.53
+Category,1-hour Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,06:00_07:00, 1.08
+,,07:00_08:00, 6.62
+Category,1-hour Departure Time Interval,Travel Time Per Distance Unit STD,
+,,06:00_07:00, 0.01
+,,07:00_08:00,39.65
+Category,1-hour Departure Time Interval,95th Percentile Travel Time Per Distance Unit,
+,,06:00_07:00, 0.02
+,,07:00_08:00,44.00
+Category,1-hour Departure Time Interval,90th Percentile Travel Time Per Distance Unit,
+,,06:00_07:00, 0.01
+,,07:00_08:00,24.39
+Category,1-hour Departure Time Interval,80th Percentile Travel Time Per Distance Unit, 8.65
+Category,2-hour Departure Time Interval,Number of Agents,25000.00
+Category,2-hour Departure Time Interval,Cumulative Number of Agents,25000.00
+Category,2-hour Departure Time Interval,Total Travel Distance ,53457.68
+Category,2-hour Departure Time Interval,Avg Travel Distance , 2.14
+Category,2-hour Departure Time Interval,Avg Speed (distance/hour),534576.81
+Category,2-hour Departure Time Interval,Avg Travel Time STD (min),26.13
+Category,2-hour Departure Time Interval,95th Percentile Travel Time (min),36.93
+Category,2-hour Departure Time Interval,90th Percentile Travel Time (min), 0.04
+Category,2-hour Departure Time Interval,80th Percentile Travel Time (min), 0.01
+Category,2-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT, 8.76
+Category,2-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,2-hour Departure Time Interval,Travel Time Per Distance Unit STD,26.37
+Category,2-hour Departure Time Interval,95th Percentile Travel Time Per Distance Unit,20.55
+Category,2-hour Departure Time Interval,90th Percentile Travel Time Per Distance Unit, 0.06
+Category,4-hour Departure Time Interval,Number of Agents,25000.00
+Category,4-hour Departure Time Interval,Cumulative Number of Agents,25000.00
+Category,4-hour Departure Time Interval,Total Travel Distance ,53457.68
+Category,4-hour Departure Time Interval,Avg Travel Distance , 2.14
+Category,4-hour Departure Time Interval,Avg Speed (distance/hour),534576.81
+Category,4-hour Departure Time Interval,Avg Travel Time STD (min),26.13
+Category,4-hour Departure Time Interval,95th Percentile Travel Time (min),36.93
+Category,4-hour Departure Time Interval,90th Percentile Travel Time (min), 0.04
+Category,4-hour Departure Time Interval,80th Percentile Travel Time (min), 0.01
+Category,4-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT, 8.76
+Category,4-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,4-hour Departure Time Interval,Travel Time Per Distance Unit STD,26.37
+Category,4-hour Departure Time Interval,95th Percentile Travel Time Per Distance Unit,20.55
+Category,4-hour Departure Time Interval,90th Percentile Travel Time Per Distance Unit, 0.06
+Category,Distance Bin (0.2 dist Interval),Number of Agents,
+,,0.2_0.4,1000.00
+,,0.6_0.8,2000.00
+,,1.0_1.2,2000.00
+,,1.2_1.4,1000.00
+,,1.4_1.6,1000.00
+,,1.6_1.8,2000.00
+,,2.0_2.2,3000.00
+,,2.2_2.4,4000.00
+,,2.4_2.6,1000.00
+,,2.6_2.8,2000.00
+,,3.0_3.2,3000.00
+,,3.2_3.4,1000.00
+,,3.6_3.8,2000.00
+Category,Distance Bin (0.2 dist Interval),Cumulative Number of Agents,
+,,0.2_0.4,1000.00
+,,0.6_0.8,3000.00
+,,1.0_1.2,5000.00
+,,1.2_1.4,6000.00
+,,1.4_1.6,7000.00
+,,1.6_1.8,9000.00
+,,2.0_2.2,12000.00
+,,2.2_2.4,16000.00
+,,2.4_2.6,17000.00
+,,2.6_2.8,19000.00
+,,3.0_3.2,22000.00
+,,3.2_3.4,23000.00
+,,3.6_3.8,25000.00
+Category,Distance Bin (0.2 dist Interval),Total Travel Time (min),
+,,0.2_0.4,1564.24
+,,0.6_0.8,3618.91
+,,2.0_2.2,17.11
+Category,Distance Bin (0.2 dist Interval),Total Travel Distance ,
+,,0.2_0.4,321.40
+,,0.6_0.8,1433.77
+,,1.0_1.2,2228.77
+,,1.2_1.4,1323.11
+,,1.4_1.6,1453.49
+,,1.6_1.8,3406.41
+,,2.0_2.2,6460.21
+,,2.2_2.4,9049.25
+,,2.4_2.6,2534.50
+,,2.6_2.8,5328.42
+,,3.0_3.2,9360.94
+,,3.2_3.4,3244.16
+,,3.6_3.8,7310.73
+Category,Distance Bin (0.2 dist Interval),Avg Travel Time (min),
+,,0.2_0.4, 1.56
+,,0.6_0.8, 1.81
+Category,Distance Bin (0.2 dist Interval),Avg Travel Distance ,
+,,0.2_0.4, 0.32
+,,0.6_0.8, 0.72
+,,1.0_1.2, 1.11
+,,1.2_1.4, 1.32
+,,1.4_1.6, 1.45
+,,1.6_1.8, 1.70
+,,2.0_2.2, 2.15
+,,2.2_2.4, 2.26
+,,2.4_2.6, 2.53
+,,2.6_2.8, 2.66
+,,3.0_3.2, 3.12
+,,3.2_3.4, 3.24
+,,3.6_3.8, 3.66
+Category,Distance Bin (0.2 dist Interval),Avg Speed (distance/hour),
+,,0.2_0.4,12.33
+,,0.6_0.8,23.77
+,,1.0_1.2,22287.71
+,,1.2_1.4,13231.11
+,,1.4_1.6,14534.93
+,,1.6_1.8,34064.06
+,,2.0_2.2,22652.00
+,,2.2_2.4,90492.53
+,,2.4_2.6,25344.99
+,,2.6_2.8,53284.24
+,,3.0_3.2,93609.38
+,,3.2_3.4,32441.60
+,,3.6_3.8,73107.26
+Category,Distance Bin (0.2 dist Interval),Avg Travel Time Per distance (min/distance),
+,,0.2_0.4, 4.87
+,,0.6_0.8, 2.95
+,,2.0_2.2, 0.06
+Category,Distance Bin (0.2 dist Interval),Travel Time Index: mean/FFTT,
+,,0.2_0.4, 0.81
+,,0.6_0.8, 0.58
+Category,Distance Bin (0.2 dist Interval),Avg Travel Time STD (min),
+,,0.2_0.4,31.39
+,,0.6_0.8,31.90
+,,1.0_1.2,20.73
+,,1.2_1.4,25.01
+,,1.4_1.6,16.78
+,,1.6_1.8,26.94
+,,2.0_2.2,33.16
+,,2.2_2.4,21.23
+,,2.4_2.6,21.29
+,,2.6_2.8,23.09
+,,3.0_3.2,23.31
+,,3.2_3.4,21.49
+,,3.6_3.8,25.86
+Category,Distance Bin (0.2 dist Interval),95th Percentile Travel Time (min),
+,,0.2_0.4,74.42
+,,0.6_0.8,74.98
+,,1.0_1.2, 8.89
+,,1.2_1.4,26.99
+,,1.4_1.6, 0.02
+,,1.6_1.8,46.37
+,,2.0_2.2,77.04
+,,2.2_2.4, 0.03
+,,2.4_2.6, 0.02
+,,2.6_2.8,27.05
+,,3.0_3.2, 0.04
+,,3.2_3.4,33.95
+,,3.6_3.8,26.45
+Category,Distance Bin (0.2 dist Interval),90th Percentile Travel Time (min),
+,,0.2_0.4,44.41
+,,0.6_0.8,45.83
+,,1.0_1.2, 0.02
+,,1.2_1.4, 0.03
+,,1.4_1.6, 0.01
+,,1.6_1.8,27.11
+,,2.0_2.2,47.22
+,,2.2_2.4, 0.02
+,,2.4_2.6, 0.01
+,,2.6_2.8, 0.02
+,,3.0_3.2, 0.02
+,,3.2_3.4, 0.03
+,,3.6_3.8, 0.02
+Category,Distance Bin (0.2 dist Interval),80th Percentile Travel Time (min),
+,,0.2_0.4,13.55
+,,0.6_0.8,14.92
+,,1.0_1.2, 0.01
+,,1.2_1.4, 0.01
+,,1.6_1.8, 0.02
+,,2.0_2.2, 0.03
+,,2.6_2.8, 0.01
+,,3.2_3.4, 0.01
+,,3.6_3.8, 0.01
+Category,Distance Bin (0.2 dist Interval),Planning Time Index: 95th percentile/FFTT,
+,,0.2_0.4,38.59
+,,0.6_0.8,23.97
+,,1.0_1.2, 4.36
+,,1.2_1.4,13.65
+,,1.6_1.8,11.14
+,,2.0_2.2,15.12
+,,2.6_2.8, 6.29
+,,3.2_3.4, 6.06
+,,3.6_3.8, 4.28
+Category,Distance Bin (0.2 dist Interval),Buffer Index: (95th percentile - mean)/mean,
+,,0.2_0.4,46.58
+,,0.6_0.8,40.44
+,,1.0_1.2,1994.82
+,,1.2_1.4,3801.43
+,,1.4_1.6,1262.68
+,,1.6_1.8,5084.41
+,,2.0_2.2,7703.57
+,,2.2_2.4,1274.36
+,,2.4_2.6,1470.92
+,,2.6_2.8,3752.67
+,,3.0_3.2,1246.01
+,,3.2_3.4,4238.82
+,,3.6_3.8,3823.60
+Category,Distance Bin (0.2 dist Interval),Skew Index: (90th %ile-median)/(median-10th %ile),
+,,0.2_0.4, 0.94
+,,0.6_0.8, 0.97
+,,1.6_1.8, 0.58
+,,2.0_2.2, 1.00
+Category,Distance Bin (0.2 dist Interval),Travel Time Per Distance Unit STD,
+,,0.2_0.4,97.68
+,,0.6_0.8,45.75
+,,1.0_1.2,18.70
+,,1.2_1.4,18.91
+,,1.4_1.6,11.55
+,,1.6_1.8,15.99
+,,2.0_2.2,15.45
+,,2.2_2.4, 9.47
+,,2.4_2.6, 8.40
+,,2.6_2.8, 8.63
+,,3.0_3.2, 7.49
+,,3.2_3.4, 6.62
+,,3.6_3.8, 7.07
+Category,Distance Bin (0.2 dist Interval),95th Percentile Travel Time Per Distance Unit,
+,,0.2_0.4,231.55
+,,0.6_0.8,99.33
+,,1.0_1.2, 8.10
+,,1.2_1.4,20.40
+,,1.4_1.6, 0.01
+,,1.6_1.8,27.33
+,,2.0_2.2,36.20
+,,2.2_2.4, 0.01
+,,2.6_2.8,10.20
+,,3.0_3.2, 0.01
+,,3.2_3.4,10.46
+,,3.6_3.8, 7.19
+Category,Distance Bin (0.2 dist Interval),90th Percentile Travel Time Per Distance Unit,
+,,0.2_0.4,138.17
+,,0.6_0.8,65.69
+,,1.0_1.2, 0.02
+,,1.2_1.4, 0.02
+,,1.6_1.8,16.15
+,,2.0_2.2,21.95
+Category,Distance Bin (0.2 dist Interval),80th Percentile Travel Time Per Distance Unit,
+,,0.2_0.4,42.16
+,,0.6_0.8,20.84
+,,1.6_1.8, 0.01
+,,2.0_2.2, 0.01
+Category,Distance Bin (1 dist Interval),Number of Agents,
+,,0_1,3000.00
+,,1_2,6000.00
+,,2_3,10000.00
+,,3_4,6000.00
+Category,Distance Bin (1 dist Interval),Cumulative Number of Agents,
+,,0_1,3000.00
+,,1_2,9000.00
+,,2_3,19000.00
+,,3_4,25000.00
+Category,Distance Bin (1 dist Interval),Total Travel Time (min),5183.16
+Category,Distance Bin (1 dist Interval),Total Travel Distance ,
+,,0_1,1755.18
+,,1_2,8411.73
+,,2_3,23372.67
+,,3_4,19915.00
+Category,Distance Bin (1 dist Interval),Avg Travel Time (min), 1.73
+Category,Distance Bin (1 dist Interval),Avg Travel Distance ,
+,,0_1, 0.59
+,,1_2, 1.40
+,,2_3, 2.34
+,,3_4, 3.32
+Category,Distance Bin (1 dist Interval),Avg Speed (distance/hour),
+,,0_1,20.32
+,,1_2,84117.34
+,,2_3,233726.66
+,,3_4,199150.00
+Category,Distance Bin (1 dist Interval),Avg Travel Time Per distance (min/distance), 3.59
+Category,Distance Bin (1 dist Interval),Travel Time Index: mean/FFTT, 0.63
+Category,Distance Bin (1 dist Interval),Avg Travel Time STD (min),
+,,0_1,31.73
+,,1_2,23.40
+,,2_3,26.37
+,,3_4,23.95
+Category,Distance Bin (1 dist Interval),95th Percentile Travel Time (min),
+,,0_1,74.63
+,,1_2,27.07
+,,2_3,35.74
+,,3_4,23.60
+Category,Distance Bin (1 dist Interval),90th Percentile Travel Time (min),
+,,0_1,45.51
+,,1_2, 0.03
+,,2_3, 0.03
+,,3_4, 0.02
+Category,Distance Bin (1 dist Interval),80th Percentile Travel Time (min),
+,,0_1,14.22
+,,1_2, 0.01
+,,2_3, 0.01
+Category,Distance Bin (1 dist Interval),Planning Time Index: 95th percentile/FFTT,
+,,0_1,27.35
+,,1_2, 8.67
+,,2_3, 8.29
+,,3_4, 4.01
+Category,Distance Bin (1 dist Interval),Buffer Index: (95th percentile - mean)/mean,
+,,0_1,42.20
+,,1_2,3618.32
+,,2_3,4438.86
+,,3_4,3514.18
+Category,Distance Bin (1 dist Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 0.96
+Category,Distance Bin (1 dist Interval),Travel Time Per Distance Unit STD,
+,,0_1,67.65
+,,1_2,17.14
+,,2_3,11.64
+,,3_4, 7.23
+Category,Distance Bin (1 dist Interval),95th Percentile Travel Time Per Distance Unit,
+,,0_1,126.62
+,,1_2,18.43
+,,2_3,15.61
+,,3_4, 7.04
+Category,Distance Bin (1 dist Interval),90th Percentile Travel Time Per Distance Unit,
+,,0_1,86.22
+,,1_2, 0.02
+,,2_3, 0.01
+Category,Distance Bin (1 dist Interval),80th Percentile Travel Time Per Distance Unit,24.71
+Category,Distance Bin (2 dist Interval),Number of Agents,
+,,0_2,9000.00
+,,2_4,16000.00
+Category,Distance Bin (2 dist Interval),Cumulative Number of Agents,
+,,0_2,9000.00
+,,2_4,25000.00
+Category,Distance Bin (2 dist Interval),Total Travel Distance ,
+,,0_2,10166.62
+,,2_4,43289.98
+Category,Distance Bin (2 dist Interval),Avg Travel Distance ,
+,,0_2, 1.13
+,,2_4, 2.71
+Category,Distance Bin (2 dist Interval),Avg Speed (distance/hour),
+,,0_2,101666.17
+,,2_4,432899.84
+Category,Distance Bin (2 dist Interval),Avg Travel Time STD (min),
+,,0_2,26.96
+,,2_4,25.53
+Category,Distance Bin (2 dist Interval),95th Percentile Travel Time (min),
+,,0_2,44.04
+,,2_4,31.49
+Category,Distance Bin (2 dist Interval),90th Percentile Travel Time (min),
+,,0_2,20.96
+,,2_4, 0.02
+Category,Distance Bin (2 dist Interval),80th Percentile Travel Time (min),
+,,0_2, 0.02
+,,2_4, 0.01
+Category,Distance Bin (2 dist Interval),Planning Time Index: 95th percentile/FFTT,
+,,0_2,14.72
+,,2_4, 6.42
+Category,Distance Bin (2 dist Interval),Buffer Index: (95th percentile - mean)/mean,
+,,0_2,4953.88
+,,2_4,4122.14
+Category,Distance Bin (2 dist Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 0.45
+Category,Distance Bin (2 dist Interval),Travel Time Per Distance Unit STD,
+,,0_2,41.79
+,,2_4,10.22
+Category,Distance Bin (2 dist Interval),95th Percentile Travel Time Per Distance Unit,
+,,0_2,51.02
+,,2_4,11.86
+Category,Distance Bin (2 dist Interval),90th Percentile Travel Time Per Distance Unit,20.12
+Category,Distance Bin (2 dist Interval),80th Percentile Travel Time Per Distance Unit, 0.02
+Category,Distance Bin (5 dist Interval),Number of Agents,25000.00
+Category,Distance Bin (5 dist Interval),Cumulative Number of Agents,25000.00
+Category,Distance Bin (5 dist Interval),Total Travel Distance ,53457.68
+Category,Distance Bin (5 dist Interval),Avg Travel Distance , 2.14
+Category,Distance Bin (5 dist Interval),Avg Speed (distance/hour),534576.81
+Category,Distance Bin (5 dist Interval),Avg Travel Time STD (min),26.13
+Category,Distance Bin (5 dist Interval),95th Percentile Travel Time (min),36.93
+Category,Distance Bin (5 dist Interval),90th Percentile Travel Time (min), 0.04
+Category,Distance Bin (5 dist Interval),80th Percentile Travel Time (min), 0.01
+Category,Distance Bin (5 dist Interval),Planning Time Index: 95th percentile/FFTT, 8.76
+Category,Distance Bin (5 dist Interval),Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,Distance Bin (5 dist Interval),Travel Time Per Distance Unit STD,26.37
+Category,Distance Bin (5 dist Interval),95th Percentile Travel Time Per Distance Unit,20.55
+Category,Distance Bin (5 dist Interval),90th Percentile Travel Time Per Distance Unit, 0.06
+Category,Distance Bin (10 dist Interval),Number of Agents,25000.00
+Category,Distance Bin (10 dist Interval),Cumulative Number of Agents,25000.00
+Category,Distance Bin (10 dist Interval),Total Travel Distance ,53457.68
+Category,Distance Bin (10 dist Interval),Avg Travel Distance , 2.14
+Category,Distance Bin (10 dist Interval),Avg Speed (distance/hour),534576.81
+Category,Distance Bin (10 dist Interval),Avg Travel Time STD (min),26.13
+Category,Distance Bin (10 dist Interval),95th Percentile Travel Time (min),36.93
+Category,Distance Bin (10 dist Interval),90th Percentile Travel Time (min), 0.04
+Category,Distance Bin (10 dist Interval),80th Percentile Travel Time (min), 0.01
+Category,Distance Bin (10 dist Interval),Planning Time Index: 95th percentile/FFTT, 8.76
+Category,Distance Bin (10 dist Interval),Buffer Index: (95th percentile - mean)/mean,4513.88
+Category,Distance Bin (10 dist Interval),Travel Time Per Distance Unit STD,26.37
+Category,Distance Bin (10 dist Interval),95th Percentile Travel Time Per Distance Unit,20.55
+Category,Distance Bin (10 dist Interval),90th Percentile Travel Time Per Distance Unit, 0.06
+Category,Travel Time Bin (2 min Interval),Number of Agents,
+,,30_32,1000.00
+,,34_36,1000.00
+,,60_62,1000.00
+,,72_74,1000.00
+,,80_82,1000.00
+,,96_98,1000.00
+,,104_106,1000.00
+,,108_110,1000.00
+,,110_112,1000.00
+,,114_116,2000.00
+,,128_130,1000.00
+,,136_138,1000.00
+,,206_208,2000.00
+,,210_212,1000.00
+,,246_248,2000.00
+,,248_250,1000.00
+,,266_268,2000.00
+,,270_272,1000.00
+,,304_306,1000.00
+,,306_308,1000.00
+,,344_346,1000.00
+Category,Travel Time Bin (2 min Interval),Cumulative Number of Agents,
+,,30_32,1000.00
+,,34_36,2000.00
+,,60_62,3000.00
+,,72_74,4000.00
+,,80_82,5000.00
+,,96_98,6000.00
+,,104_106,7000.00
+,,108_110,8000.00
+,,110_112,9000.00
+,,114_116,11000.00
+,,128_130,12000.00
+,,136_138,13000.00
+,,206_208,15000.00
+,,210_212,16000.00
+,,246_248,18000.00
+,,248_250,19000.00
+,,266_268,21000.00
+,,270_272,22000.00
+,,304_306,23000.00
+,,306_308,24000.00
+,,344_346,25000.00
+Category,Travel Time Bin (2 min Interval),Total Travel Time (min),
+,,72_74,4320.45
+,,96_98,1564.24
+,,108_110,206.20
+,,114_116,12232.91
+Category,Travel Time Bin (2 min Interval),Total Travel Distance ,
+,,30_32,1132.09
+,,34_36,1096.69
+,,60_62,2361.32
+,,72_74,636.50
+,,80_82,1323.11
+,,96_98,321.40
+,,104_106,797.30
+,,108_110,1659.41
+,,110_112,2203.21
+,,114_116,4265.40
+,,128_130,1453.49
+,,136_138,3132.88
+,,206_208,4018.79
+,,210_212,2609.11
+,,246_248,6415.30
+,,248_250,2213.11
+,,266_268,4914.08
+,,270_272,3056.82
+,,304_306,3618.83
+,,306_308,3691.83
+,,344_346,2534.50
+Category,Travel Time Bin (2 min Interval),Avg Travel Time (min),
+,,72_74, 4.32
+,,96_98, 1.56
+,,108_110, 0.21
+,,114_116, 6.12
+Category,Travel Time Bin (2 min Interval),Avg Travel Distance ,
+,,30_32, 1.13
+,,34_36, 1.10
+,,60_62, 2.36
+,,72_74, 0.64
+,,80_82, 1.32
+,,96_98, 0.32
+,,104_106, 0.80
+,,108_110, 1.66
+,,110_112, 2.20
+,,114_116, 2.13
+,,128_130, 1.45
+,,136_138, 3.13
+,,206_208, 2.01
+,,210_212, 2.61
+,,246_248, 3.21
+,,248_250, 2.21
+,,266_268, 2.46
+,,270_272, 3.06
+,,304_306, 3.62
+,,306_308, 3.69
+,,344_346, 2.53
+Category,Travel Time Bin (2 min Interval),Avg Speed (distance/hour),
+,,30_32,11320.91
+,,34_36,10966.91
+,,60_62,23613.21
+,,72_74, 8.84
+,,80_82,13231.11
+,,96_98,12.33
+,,104_106,7973.02
+,,108_110,482.86
+,,110_112,22032.12
+,,114_116,20.92
+,,128_130,14534.93
+,,136_138,31328.77
+,,206_208,40187.92
+,,210_212,26091.13
+,,246_248,64153.03
+,,248_250,22131.13
+,,266_268,49140.80
+,,270_272,30568.19
+,,304_306,36188.32
+,,306_308,36918.31
+,,344_346,25344.99
+Category,Travel Time Bin (2 min Interval),Avg Travel Time Per distance (min/distance),
+,,72_74, 6.79
+,,96_98, 4.87
+,,108_110, 0.12
+,,114_116, 2.87
+Category,Travel Time Bin (2 min Interval),Travel Time Index: mean/FFTT,
+,,72_74, 1.46
+,,96_98, 0.81
+,,108_110, 0.04
+,,114_116, 1.00
+Category,Travel Time Bin (2 min Interval),Avg Travel Time STD (min),
+,,30_32,16.80
+,,34_36,23.92
+,,60_62,16.90
+,,72_74,33.02
+,,80_82,25.01
+,,96_98,31.39
+,,104_106,30.52
+,,108_110,31.68
+,,110_112,25.03
+,,114_116,35.04
+,,128_130,16.78
+,,136_138,22.21
+,,206_208,20.23
+,,210_212,20.79
+,,246_248,21.44
+,,248_250,21.34
+,,266_268,24.97
+,,270_272,25.39
+,,304_306,25.82
+,,306_308,25.89
+,,344_346,21.29
+Category,Travel Time Bin (2 min Interval),95th Percentile Travel Time (min),
+,,30_32, 0.02
+,,34_36,27.32
+,,60_62, 0.02
+,,72_74,78.59
+,,80_82,26.99
+,,96_98,74.42
+,,104_106,64.37
+,,108_110,68.94
+,,110_112,17.70
+,,114_116,82.81
+,,128_130, 0.02
+,,136_138, 0.02
+,,206_208,25.99
+,,210_212,29.61
+,,246_248,33.51
+,,248_250, 0.02
+,,266_268,19.14
+,,270_272,22.95
+,,304_306,26.01
+,,306_308,26.63
+,,344_346, 0.02
+Category,Travel Time Bin (2 min Interval),90th Percentile Travel Time (min),
+,,30_32, 0.01
+,,34_36, 8.89
+,,60_62, 0.01
+,,72_74,57.32
+,,80_82, 0.03
+,,96_98,44.41
+,,104_106,40.24
+,,108_110,44.44
+,,110_112, 0.02
+,,114_116,64.01
+,,128_130, 0.01
+,,136_138, 0.01
+,,206_208, 0.03
+,,210_212, 0.03
+,,246_248, 0.03
+,,248_250, 0.01
+,,266_268, 0.02
+,,270_272, 0.02
+,,304_306, 0.02
+,,306_308, 0.02
+,,344_346, 0.01
+Category,Travel Time Bin (2 min Interval),80th Percentile Travel Time (min),
+,,34_36, 0.02
+,,72_74,20.45
+,,80_82, 0.01
+,,96_98,13.55
+,,104_106, 9.59
+,,108_110,14.17
+,,110_112, 0.01
+,,114_116,28.87
+,,206_208, 0.01
+,,210_212, 0.01
+,,246_248, 0.01
+,,266_268, 0.01
+,,304_306, 0.01
+,,306_308, 0.01
+Category,Travel Time Bin (2 min Interval),Planning Time Index: 95th percentile/FFTT,
+,,34_36,16.61
+,,72_74,26.58
+,,80_82,13.65
+,,96_98,38.59
+,,104_106,19.51
+,,108_110,11.75
+,,110_112, 3.67
+,,114_116,13.59
+,,206_208, 9.63
+,,210_212, 5.89
+,,246_248, 6.04
+,,266_268, 5.73
+,,270_272, 4.05
+,,304_306, 4.24
+,,306_308, 4.27
+Category,Travel Time Bin (2 min Interval),Buffer Index: (95th percentile - mean)/mean,
+,,30_32,1264.82
+,,34_36,3680.98
+,,60_62,1257.43
+,,72_74,17.19
+,,80_82,3801.43
+,,96_98,46.58
+,,104_106,6507.23
+,,108_110,333.32
+,,110_112,3225.62
+,,114_116,12.54
+,,128_130,1262.68
+,,136_138,1677.35
+,,206_208,3509.03
+,,210_212,3840.02
+,,246_248,4198.32
+,,248_250,1473.04
+,,266_268,3133.03
+,,270_272,3497.56
+,,304_306,3783.58
+,,306_308,3836.51
+,,344_346,1470.92
+Category,Travel Time Bin (2 min Interval),Skew Index: (90th %ile-median)/(median-10th %ile),
+,,34_36, 0.19
+,,72_74, 1.22
+,,96_98, 0.94
+,,104_106, 0.85
+,,108_110, 0.94
+,,114_116, 1.36
+Category,Travel Time Bin (2 min Interval),Travel Time Per Distance Unit STD,
+,,30_32,14.84
+,,34_36,21.81
+,,60_62, 7.16
+,,72_74,51.88
+,,80_82,18.91
+,,96_98,97.68
+,,104_106,38.28
+,,108_110,19.09
+,,110_112,11.36
+,,114_116,16.44
+,,128_130,11.55
+,,136_138, 7.09
+,,206_208,10.33
+,,210_212, 7.97
+,,246_248, 6.68
+,,248_250, 9.64
+,,266_268,10.34
+,,270_272, 8.31
+,,304_306, 7.14
+,,306_308, 7.01
+,,344_346, 8.40
+Category,Travel Time Bin (2 min Interval),95th Percentile Travel Time Per Distance Unit,
+,,30_32, 0.02
+,,34_36,24.91
+,,72_74,123.47
+,,80_82,20.40
+,,96_98,231.55
+,,104_106,80.74
+,,108_110,41.54
+,,110_112, 8.04
+,,114_116,38.84
+,,128_130, 0.01
+,,206_208,12.95
+,,210_212,11.35
+,,246_248,10.46
+,,266_268, 7.85
+,,270_272, 7.51
+,,304_306, 7.19
+,,306_308, 7.21
+Category,Travel Time Bin (2 min Interval),90th Percentile Travel Time Per Distance Unit,
+,,30_32, 0.01
+,,34_36, 8.10
+,,72_74,90.05
+,,80_82, 0.02
+,,96_98,138.17
+,,104_106,50.47
+,,108_110,26.78
+,,110_112, 0.01
+,,114_116,30.12
+,,206_208, 0.01
+,,210_212, 0.01
+Category,Travel Time Bin (2 min Interval),80th Percentile Travel Time Per Distance Unit,
+,,34_36, 0.01
+,,72_74,32.13
+,,96_98,42.16
+,,104_106,12.03
+,,108_110, 8.54
+,,114_116,13.58

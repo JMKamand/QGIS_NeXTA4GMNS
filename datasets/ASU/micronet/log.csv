@@ -1,0 +1,98 @@
+STALite Log           
+Step 1: Reading input data
+Step 1.1: Reading section [demand_period] in setting.csv...
+number of demand periods = 2
+Step 1.2: Reading section [link_type] in setting.csv...
+important: traffic_flow_code on link type 1 is 3
+important: traffic_flow_code on link type 2 is 2
+important: traffic_flow_code on link type 3 is 2
+important: traffic_flow_code on link type 4 is 2
+important: traffic_flow_code on link type 20 is 1
+important: traffic_flow_code on link type 99 is 1
+number of link types = 7
+Step 1.3: Reading section [agent_type] in setting.csv...
+number of agent typess = 1
+Step 1.4: Reading node data in node.csv...
+reading 5000 nodes.. 
+reading 10000 nodes.. 
+number of nodes = 13688
+Step 1.5: Initializing O-D zone vector...
+number of zones = 10
+Step 1.6: Reading link data in link.csv... 
+reading 10000 links.. 
+number of links = 19598
+number of links =19618
+Step 1.7: Reading service arc in timing.csv...
+
+Step 1.8: Reading file section [demand_file_list] in setting.csv...
+number of timing records = 0
+
+allocating 4D memory for 0 zones
+allocating 3D memory for 0
+
+Step 1.8: Reading file section [demand_file_list] in setting.csv...
+o_zone_id:1, d_zone_id: 2, value = 10.000000
+o_zone_id:1, d_zone_id: 3, value = 10.000000
+o_zone_id:1, d_zone_id: 4, value = 10.000000
+o_zone_id:1, d_zone_id: 5, value = 10.000000
+o_zone_id:1, d_zone_id: 6, value = 10.000000
+o_zone_id:1, d_zone_id: 7, value = 10.000000
+total_demand_volume is 360.000000
+
+Step 2: Assigning computing tasks to memory blocks...
+There are 8 networks in memory.
+
+Step 3: Column Generation for Traffic Assignment...
+Total Column Generation iteration: 2
+
+Current iteration number:0
+Current CPU time: 0.007000 s
+llababeell  ccoorrrreecctingtin for zoneg  0f oirn  zpornoec e0s sionr  p0r
+ocessor 4
+
+Current iteration number:1
+Current CPU time: 0.110000 s
+llaabbeell  ccoorrrreeccttiinngg  ffoorr  zzoonnee  00  iinn  pprroocceessssoorr  04
+
+
+Step 4: Column Pool Updating
+Total Column Pool Updating iteration: 0
+
+Step 5: Simulation for traffic assignment..
+allocate 2D dynamic memory LinkOutFlowCapacity...
+allocate 2D dynamic memory m_LinkCumulativeArrival...
+allocate 2D dynamic memory m_LinkCumulativeDeparture...
+allocate 2D dynamic memory m_LinkTDTravelTime...
+allocate 2D dynamic memory m_LinkTDWaitingTime...
+initializing time dependent capacity data...
+End of initializing time dependent capacity data.
+generating 0 K agents for 0  zones 
+number of simulation zones:10
+simu time= 0 min, CA = 0 CD=0
+simu time= 10 min, CA = 50 CD=6
+simu time= 20 min, CA = 100 CD=42
+simu time= 30 min, CA = 125 CD=82
+simu time= 40 min, CA = 175 CD=124
+simu time= 50 min, CA = 225 CD=168
+simu time= 60 min, CA = 250 CD=205
+simu time= 70 min, CA = 250 CD=243
+simu time= 80 min, CA = 250 CD=250
+simu time= 90 min, CA = 250 CD=250
+simu time= 100 min, CA = 250 CD=250
+simu time= 110 min, CA = 250 CD=250
+simu time= 120 min, CA = 250 CD=250
+simu time= 130 min, CA = 250 CD=250
+simu time= 140 min, CA = 250 CD=250
+simu time= 150 min, CA = 250 CD=250
+simu time= 160 min, CA = 250 CD=250
+simu time= 170 min, CA = 250 CD=250
+
+Done!
+CPU Running Time for column pool updating: 63.104000 s
+writing link_performance.csv..
+writing agent.csv..
+writing data for 10  zones 
+Output for assignment with 2 iterations. Traffic assignment completes!
+CPU Running Time for outputting simulation results: 3.385000 s
+free memory..
+done.
